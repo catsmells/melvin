@@ -2,6 +2,7 @@
 = MELVIN STANDARD ERROR CODE REFERENCE =
 ========================================
 =                                      =
+= 200 ................ UNKNOWN COMMAND =
 = 201 ............... ALLOCATION ERROR =
 =                                      =
 ========================================
