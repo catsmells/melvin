@@ -6,8 +6,8 @@
 #define CTM "\t\r\n\n"
 char *read_line();
 char **split_line(char *);
-int dash_exit(char **);
-int dash_execute(char **);
+int melvin_exit(char **);
+int melvin_execute(char **);
 int melvin_execute(char **args){
   pid_t cpid;
   int status;
